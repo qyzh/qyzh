@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm uki</h1>
-<h3 align="center">A passionate frontend developer from Sorowako</h3>
+<h3 align="center">I am a Communication student who has an interest in coffee...</h3>
 
 <p align="left"> <a href="https://twitter.com/asetdunia" target="blank"><img src="https://img.shields.io/twitter/follow/asetdunia?logo=twitter&style=for-the-badge" alt="asetdunia" /></a> </p>
 
 - 🔭 I’m currently working on [dir-diare](https://dir-diare.vercel.app/)
 
-- 🌱 I’m currently learning **Tailwind**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://dir-diare.vercel.app/work](https://dir-diare.vercel.app/work)
 
